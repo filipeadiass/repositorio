@@ -34,4 +34,6 @@ introduced.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Make all my projects using git as my supervisor.
+    Make all my projects using git as my supervisor. 
+
+good job filipe dias.
